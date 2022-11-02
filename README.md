@@ -1,3 +1,3 @@
 # Portfolio
 
-Check out my online portflio by clicking this link: https://martebeatriz.github.io/portfolio/
+Check out my online portflio by clicking the following link: https://martebeatriz.github.io/portfolio/
